@@ -1,0 +1,49 @@
+canvas {
+    display: block;
+  }
+
+  #particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #0d56a0;
+  }
+
+  .particle-box {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    margin-top: 30%;
+    padding: 2em 2em;
+    background: rgba(22, 26, 33, 0.4);
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .login-logo {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
+  }
+
+  .form-control {
+    border-radius: 0px !important;
+  }
+
+  .btn {
+    border-radius: 0px !important;
+  }
+
+  .btn-primary {
+    background-color: #329fde !important;
+  }
+
+  a {
+    color: #329fde !important;
+  }
+
+  a:hover {
+    color: #ffffff !important;
+  }
